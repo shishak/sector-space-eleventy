@@ -22,7 +22,8 @@ strong {
 }
 header {
    text-align: center;
-   padding: 5px;
+   padding-top: 15px;
+   padding-bottom; 10px;
 }
 footer {
     background: #030409;
