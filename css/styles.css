@@ -5,7 +5,7 @@
 }
 html {
   box-sizing: border-box;
-  color: #03060c;
+  color: #fff;
 }
 body {
   font-family: Georgia,Cambria,"Times New Roman",Times,serif;
@@ -84,7 +84,7 @@ footer {
   margin-bottom: 100px;
   margin-top: 10px;
   font-family: "Roboto", Helvetica, Arial, sans-serif;
-  color: gray;
+  color: #aeb0af;
 }
 
 .content {
@@ -97,7 +97,7 @@ footer {
   margin: 0 0 20px;
   font-size: 20px;
   line-height: 28px;
-  color: #424243;
+  color: #aeb0af;
 }
 
 .content img {
