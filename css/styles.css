@@ -5,17 +5,17 @@
 }
 html {
   box-sizing: border-box;
-  color: #303030;
+  color: #03060c;
 }
 body {
   font-family: Georgia,Cambria,"Times New Roman",Times,serif;
-  background: #fff;
+  background: #0d0d0e;
   padding: 0;
   margin: 0;
 }
 a {
   text-decoration: none;
-  color: #303030;
+  color: #eee6dc;
 }
 strong {
   font-weight: 200;
@@ -54,10 +54,10 @@ footer {
   flex-direction: column;
   width: 100%;
   margin-bottom: 1.5rem;
-  background: #fff;
+  background: #212121;
   border-radius: 6px;
   overflow: hidden;
-  border: 1px solid #dcdcdc;
+ 
  }
 .grid-item:hover {
   cursor: pointer;
@@ -169,12 +169,12 @@ h2 {
 }
 	
  .box:nth-of-type(1) h2, .box:nth-of-type(2) h2, .box:nth-of-type(3) h2, .box:nth-of-type(4) h2, .box:nth-of-type(5) h2 {
-    color: #fff;
+    color: #eee6dc;
     font-size: 25px;
 	 
 }
 .box:nth-of-type(1) .date-title-home, .box:nth-of-type(2) .date-title-home, .box:nth-of-type(3) .date-title-home, .box:nth-of-type(4) .date-title-home, .box:nth-of-type(5) .date-title-home {
-   color: #fff;
+   color: #eee6dc;
    opacity: .7;
 }
 }
